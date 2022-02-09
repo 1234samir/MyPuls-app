@@ -1,0 +1,217 @@
+{
+    "cellPhone": [
+        {"id": "iphone5",
+            "parts": [{
+                "id": "iphone 5 - LCD",
+                "name": "LCD install",
+                "price": "$70"
+            },
+            {
+               "id": "iphone 5 - Charging Port",
+               "name": "Chargin Port",
+               "price": "$20"
+           }
+           ], "color" : ["White", "Black"]
+           },
+
+
+           
+        {"id": "iphone6",
+         "parts": [{
+             "id": "iphone 6 - LCD",
+             "name": "LCD install",
+             "price": "$100"
+         },
+         {
+            "id": "iphone 6 - Charging Port",
+            "name": "Chargin Port",
+            "price": "$50"
+        }
+        ], "color" : ["White", "Black"]
+        },
+
+
+
+
+        {"id": "iphone6Plus",
+            "parts": [{
+                "id": "iphone 6 Plus - LCD",
+                "name": "LCD install",
+                "price": "$200"
+            },
+            {
+               "id": "iphone 6 Plus - Charging Port",
+               "name": "Chargin Port",
+               "price": "$125"
+           },
+           {
+            "id": "iphone 6 Plus - Battery",
+            "name": "Battery",
+            "price": "$120"
+        }
+           ], "color" : ["White", "Black"]
+           },
+
+
+
+
+
+        {"id": "iphone7",
+            "parts": [{
+                "id": "iphone 7 - LCD",
+                "name": "LCD install",
+                "price": "$110"
+            },
+            {
+               "id": "iphone 7 - Charging Port",
+               "name": "Chargin Port",
+               "price": "$55"
+           },
+           {
+            "id": "iphone 7 - Battery",
+            "name": "Battery",
+            "price": "$55"
+        }
+           ], "color" : ["White", "Black"]
+           },
+
+
+
+
+           {"id": "iphone7Plus",
+            "parts": [{
+                "id": "iphone XR - LCD",
+                "name": "LCD install",
+                "price": "$200"
+            },
+            {
+               "id": "iphone 7 Plus - Charging Port",
+               "name": "Chargin Port",
+               "price": "$125"
+           },
+           {
+            "id": "iphone 7 Plus - Battery",
+            "name": "Battery",
+            "price": "$120"
+        }
+           ], "color" : ["White", "Black"]
+           },
+
+
+
+
+
+           {"id": "iphone8",
+            "parts": [{
+                "id": "iphone 8 - LCD",
+                "name": "LCD install",
+                "price": "$130"
+            },
+            {
+               "id": "iphone 8 - Charging Port",
+               "name": "Chargin Port",
+               "price": "$65"
+           },
+           {
+            "id": "iphone 8 - Battery",
+            "name": "Battery",
+            "price": "$65"
+        }
+           ],
+           "color" : ["White", "Black", "Red"]
+           }, 
+
+
+
+
+
+           {"id": "iphone8Plus",
+            "parts": [{
+                "id": "iphone 8 Plus - LCD",
+                "name": "LCD install",
+                "price": "$201"
+            },
+            {
+               "id": "iphone 8 Plus - Charging Port",
+               "name": "Chargin Port",
+               "price": "$128"
+           },
+           {
+            "id": "iphone 8 Plus - Battery",
+            "name": "Battery",
+            "price": "$127"
+        }
+           ], "color" : ["White", "Black"]
+           },
+
+
+
+
+
+           {"id": "iphoneX",
+            "parts": [{
+                "id": "iphone X - LCD",
+                "name": "LCD install",
+                "price": "$110"
+            },
+            {
+               "id": "iphone X - Charging Port",
+               "name": "Chargin Port",
+               "price": "$75"
+           },
+           {
+            "id": "iphone X - Battery",
+            "name": "Battery",
+            "price": "$75"
+        }
+           ], "color" : ["White", "Black"]
+           },
+
+
+
+
+
+           {"id": "iphoneXS",
+            "parts": [{
+                "id": "iphone XS - LCD",
+                "name": "LCD install",
+                "price": "$300"
+            },
+            {
+               "id": "iphone XS - Charging Port",
+               "name": "Chargin Port",
+               "price": "$125"
+           },
+           {
+            "id": "iphone XS - Battery",
+            "name": "Battery",
+            "price": "$129"
+        }
+           ], "color" : ["White", "Black", "Blue"]
+           },
+
+
+
+
+
+
+           {"id": "iphoneXR",
+            "parts": [{
+                "id": "iphone XR - LCD",
+                "name": "LCD install",
+                "price": "$200"
+            },
+            {
+               "id": "iphone XR - Charging Port",
+               "name": "Chargin Port",
+               "price": "$125"
+           },
+           {
+            "id": "iphone XR - Battery",
+            "name": "Battery",
+            "price": "$120"
+        }
+           ], "color" : ["White", "Black", "Silver"]
+           }
+    ]
+}
